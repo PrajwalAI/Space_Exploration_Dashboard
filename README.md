@@ -1,3 +1,4 @@
 # Space_Exploration_Dashboard
 
-![Dashboard](https://github.com/user-attachments/assets/4b80101c-6ad6-4551-aac2-02232cad6c2e)
+
+![Dashboard](https://github.com/user-attachments/assets/2a58ff1f-f90b-4309-88a8-21ef8e473d27)
