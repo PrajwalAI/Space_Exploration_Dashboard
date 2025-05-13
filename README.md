@@ -13,6 +13,8 @@ The dataset includes 12 columns detailing mission attributes such as country, ye
 
 a. Cost Optimization
 Bar graph of average budget by country
+
+
 <img width="560" alt="Screenshot 2025-05-13 at 9 52 48 AM" src="https://github.com/user-attachments/assets/a040d9be-909d-44aa-978f-c7a207c183a2" />
 
 
