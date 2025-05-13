@@ -12,12 +12,13 @@ The dataset includes 12 columns detailing mission attributes such as country, ye
 ## Analysis
 
 a. Cost Optimization
-	Bar graph of average budget by country
- <img width="560" alt="Screenshot 2025-05-13 at 9 52 48 AM" src="https://github.com/user-attachments/assets/a040d9be-909d-44aa-978f-c7a207c183a2" />
+Bar graph of average budget by country
+<img width="560" alt="Screenshot 2025-05-13 at 9 52 48 AM" src="https://github.com/user-attachments/assets/a040d9be-909d-44aa-978f-c7a207c183a2" />
+
 
 b. Yearly missions
-	line chart for time series data
-	<img width="557" alt="Screenshot 2025-05-13 at 9 53 06 AM" src="https://github.com/user-attachments/assets/b3d9737f-a27d-43b7-aaa3-114263cc9d73" />
+line chart for time series data
+<img width="557" alt="Screenshot 2025-05-13 at 9 53 06 AM" src="https://github.com/user-attachments/assets/b3d9737f-a27d-43b7-aaa3-114263cc9d73" />
 
 c. Environmental Impact
 Clustered bar chart for environmental impact for each country
